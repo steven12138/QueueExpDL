@@ -2,9 +2,9 @@
 
 This project is goal to development a Simple Deep Learning Experiment Queuing System.
 
-it should allows you to:
+it should allow you to:
 
-1. Registry your jobs, create a job template.
+1. Registry your job, create a job template.
    - CLI interface
    - auto detect  conda environments
    - define code home directory and the entry-point(Startup command).
@@ -18,6 +18,11 @@ it should allows you to:
    - Email
    - Web-Hook
 4. Beautiful Web-based Dashboard
+
+**Principle:**
+
+- Simple, light-weight. used combined with some experiment management tools like `wandb` and`mlflow`.
+- Easy to use, ergonomically designed panel and CLI 
 
 ## Development Progress:
 
