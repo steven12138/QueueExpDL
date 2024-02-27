@@ -17,6 +17,7 @@ it should allows you to:
 3. Idle graphics card notification.
    - Email
    - Web-Hook
+4. Beautiful Web-based Dashboard
 
 ## Development Progress:
 
